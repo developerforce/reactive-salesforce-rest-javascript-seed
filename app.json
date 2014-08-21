@@ -1,9 +1,9 @@
 {
-  "name": "Reactive Salesforce Seed with REST and JavaScript",
+  "name": "Reactive Salesforce & JavaScript",
   "description": "A seed for building Reactive Salesforce apps with REST and JavaScript",
   "keywords": ["reactive", "playframework", "salesforce", "javascript", "rest", "angularjs", "seed"],
   "website": "https://developer.salesforce.com",
-  "repository": "https://github.com/developerforce/activator-reactive-salesforce",
+  "repository": "https://github.com/developerforce/reactive-salesforce-rest-javascript-seed",
   "logo": "https://pbs.twimg.com/profile_images/462384100494438400/CRyX_n9b.png",
   "success_url": "/",
   "env": {
